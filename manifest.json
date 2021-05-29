@@ -1,0 +1,50 @@
+{
+ "name": "Free Fire Gift",
+ "short_name": "Free Fire Gift",
+ "description": "أول موقع عربي يهتم بكل ما يهم محبي لعبة غارينا فري فاير، من أخبار و إستراتيجية وهدايا مجاناً، ويعمل على تقديم كل ما هو الأجمل و الأفضل دائما.",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "#4080ff",
+ "start_url": "https://www.freefire.gift/",
+ "background_color": "#fff",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "FreeFireGift",
+ "icons": [{
+    "src": "https://1.bp.blogspot.com/-q4o9bSDMVfk/YLJV3tkn6lI/AAAAAAAABJQ/TmQ7SvjdGJA8d0HKm98SSxYZsNeIO_L_QCLcBGAsYHQ/s0/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gDzhovBRnOM/YLJV3rW31ZI/AAAAAAAABJM/h9k6Uc-pumob2i_T9fSrgpfo5ftNpDC8ACLcBGAsYHQ/s0/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-t1uc_FwV7Is/YLJV4zIlhNI/AAAAAAAABJg/VXGk1P10O-QmmiEwR105W3FTZAQUElMoQCLcBGAsYHQ/s0/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JbShfRMkNEg/YLJV42aBXjI/AAAAAAAABJc/eZTzUyBGvhsftqXb0p1VCPmZuKwpY9SQwCLcBGAsYHQ/s0/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-SLQVVcIWLnk/YLJV5TA3RII/AAAAAAAABJk/BeDhRshxJucvOT47h9U6Fhg8D1ozhl-EACLcBGAsYHQ/s0/apple-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-kUVpOgivnOI/YLJV3iJR_rI/AAAAAAAABJU/vLdr-m8QPbcfTs9AkPSQGy3VrjTvTqmvACLcBGAsYHQ/s0/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6iudN-DsGbk/YLJV4vny9zI/AAAAAAAABJY/__wpEDXUcX4QWj1ZViHf6rKsegVI_WvYgCLcBGAsYHQ/s320/android-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
